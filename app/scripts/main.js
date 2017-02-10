@@ -72,5 +72,5 @@
     });
   }
 
-  // Your custom JavaScript goes here
+  // Your custom JavaScript goes here when you're ready
 })();
